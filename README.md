@@ -28,7 +28,7 @@ func main() {
 }
 ```
 
-# Functions
+# Objects
 ## Mail
 - GetMail() string - returns e-mail address
 - GetLogin() string - returns e-mail address' part before the @
