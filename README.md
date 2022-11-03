@@ -39,4 +39,4 @@ func main() {
 - GetId() string - returns mail's id
 - GetTitle() string - returns mail's title
 - GetBody() string - returns mail's body
-- GetDate() string - returns mail sent date
+- GetDate() string - returns mail sent date (in string because i was too lazy to parse it to int)
