@@ -1,6 +1,7 @@
 # quickmail
 Temporary e-mail address generator library <br>
 #### This project was made a while ago. I'm not sure if everything works
+#### This was my first Go library
 # Support
 Currently only 1secmail is supported.
 
